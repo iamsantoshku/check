@@ -1,0 +1,22 @@
+{
+  "name": "check",
+  "version": "1.0.0",
+  "description": "this is cheack",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsantoshku/check.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "santosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamsantoshku/check/issues"
+  },
+  "homepage": "https://github.com/iamsantoshku/check#readme"
+}
